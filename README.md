@@ -8,7 +8,7 @@ Today button: generate today's date in DD/MM/YY format
 
 ## Tab 2: Add Product
 Location: dropdown menu: storage location\
-Location: text field: position of each location, format: 100: 1 -> level 1, 00 -> at position 00\
+Location: text field: position of each location, format: 100: 1 -> shelf level 1, 00 -> at position 00\
 Add button: add only the first item that display on the table to assigned location, position, and amount\
 Delete task(s) button: delete all selected items
 
